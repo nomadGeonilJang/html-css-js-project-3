@@ -300,6 +300,7 @@ html{
     color:#fff;
     box-shadow: none;
     border-color: #fff;
+    margin:5rem;
 }
 .contact-form{
     width: 50rem;
@@ -331,3 +332,32 @@ html{
     cursor: pointer;
 }
 /* End of Section 4 */
+/* Section 5 */
+.section-5{
+    width: 100%;
+    height: 30ch;
+    background-color: #222;
+    flex-direction: column;
+}
+.social-media{
+    margin-bottom: 5rem;
+}
+.social-media-link{
+    margin:0 2rem;
+    padding:.7rem;
+    background-color: #e41c6f;
+    border-radius: .5rem;
+    display: inline-block;
+}
+.social-media-link i{
+  font-size: 3rem;  
+  color: #fff;
+}
+.copyright{
+    color:#fff;
+    font-size: 2rem;
+    letter-spacing: .2rem;
+    font-weight: 300;
+    text-align: center;
+}
+/* End of Section 5 */
